@@ -4,11 +4,11 @@
 highlightjs:
   version: 11.4.0
   css:
-    url: https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@%s/build/styles/%s.min.css
+    url: /js/hljs@%s/styles/%s.min.css
   js:
-    url: https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@%s/build/highlight.min.js
+    url: /js/hljs@%s/highlight.min.js
   languages:
-    url: https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@%s/build/languages/%s.min.js
+    url: /js/hljs@%s/languages/%s.min.js
 
 # KaTeX
 katex:
